@@ -20,12 +20,12 @@ function esPotenciaDeDos(numero) {
 
 let numero1 = 16;
 let resultado1 = esPotenciaDeDos(numero1);
-console.log(resultado1); // Debería ser true
+console.log(resultado1); 
 
 let numero2 = 25;
 let resultado2 = esPotenciaDeDos(numero2);
-console.log(resultado2); // Debería ser false
+console.log(resultado2); 
 
 let numero3 = 128;
 let resultado3 = esPotenciaDeDos(numero3);
-console.log(resultado3); // Debería ser true
+console.log(resultado3);
